@@ -41,3 +41,11 @@ Add your name here, and learn how to edit in README. <br />
 29-Adnan Sheikh <br />
 30-Ankita Mandal <br />
 31-Jayant Namrani <br/>
+32-Daalb <br/>
+33-Mehul Aswar<br/>
+34-Chinmay Das<br/>
+35-Kunal Mehta<br/>
+36-Rajdeep Ghosh <br/>
+37-Akshita Mehta<br/>
+38-Puru Chandra<br/>
+39-Marina<br/>
